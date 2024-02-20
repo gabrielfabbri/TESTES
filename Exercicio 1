@@ -1,1 +1,63 @@
+1 - Na sua opnião, lógica de programação é importante? Reflita.
+	
+	Sim, a lógica de programação é fundamental para a organização e agilidade na criação de códigos, assim, facilitando a leitura e caso necessário, a resolução de problemas, também é essencial para o aprendizado de novas linguagens de programação.
 
+
+2 - Crie uma seqüência lógica para ir ao mercado.
+	
+	Levantar da cama;
+	Colocar uma roupa;
+	Pegar a chave do carro;
+	Abrir a porta;
+	Sair de casa;
+	Fechar a porta;
+	Chamar o elevador;
+	Entrar no elevador;
+	Descer até a garagem;
+	Sair do elevador;
+	Ir até o carro;	
+	Entrar no carro;
+	Colocar o cinto;
+	Ligar o carro;
+	Abrir o portão da garagem;
+	Sair com o carro;
+	Dirigir até o mercado;
+
+3 - Faça um algoritmo para somar dois números.
+	
+	algoritmo "SomaDoisNumeros"
+var
+   numero1, numero2, soma: real
+
+inicio
+   // Insira o primeiro número
+   escreva("Digite o primeiro número: ")
+   leia(numero1)
+
+   // Insira o segundo número
+   escreva("Digite o segundo número: ")
+   leia(numero2)
+
+   // Realiza a soma dos dois números
+   soma <- numero1 + numero2
+
+   // Exibe o resultado da soma
+   escreva("A soma de ", numero1, " e ", numero2, " é igual a ", soma)
+
+fimalgoritmo
+
+	
+4 - Faça um algoritmo para trocar uma lâmpada. Descreva com detalhes.
+	
+	Comprar uma lâmpada nova;
+	Desligar a energia do local;
+	Pegar uma escada;
+	Subir na escada;
+	Remover a lâmpada queimada;
+	Descer da escada;
+	Pegar a lâmpada nova;
+	Subir na escada;
+	Instalar a lâmpada nova;
+	Descer da escada;
+	Religar a energia do local;
+	Guardar a escada;
