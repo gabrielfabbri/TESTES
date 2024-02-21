@@ -1,10 +1,10 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+Algoritmo "MediaFinalAluno"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Gabriel Fabbri
 // Data atual  : 20/02/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
 nome: caractere
 nota1, nota2, nota3, media : real
@@ -24,7 +24,7 @@ Leia(nota3)
 
 media <- (nota1 + nota2 + nota3) / 3
 
-Escreval("Media final do ", nome, " é de: ", media)
+Escreval("Media final do ", nome, " Ã© de: ", media)
 
 
 Fimalgoritmo
